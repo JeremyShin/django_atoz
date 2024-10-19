@@ -1,2 +1,8 @@
 venv/
+.idea
 db.sqlite3
+blog/migrations/
+single_pages/migrations/
+django_atoz/__pycache__/
+blog/__pycache__/
+single_pages/__pycache__/
